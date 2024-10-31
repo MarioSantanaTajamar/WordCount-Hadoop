@@ -54,7 +54,7 @@ Contenido:
 
 Copiar el archivo creado del local al /tmp del namenode
 ```bash
-  cp nombreArchivo.txt namenode:/tmp/
+ docker cp nombreArchivo.txt namenode:/tmp/
 ```
 Para comprobar si está
 ```bash
